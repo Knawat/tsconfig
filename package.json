@@ -1,0 +1,32 @@
+{
+  "name": "@knawat/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knawat/tsconfig.git"
+  },
+  "author": "Abdelrahman Shaaban <abdo.zak.amz@gmail.com>",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "bugs": {
+    "url": "https://github.com/knawat/tsconfig/issues"
+  },
+  "homepage": "https://github.com/knawat/tsconfig#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
